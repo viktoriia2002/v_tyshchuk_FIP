@@ -2,7 +2,22 @@
 Welcome! This is my portfolio website which describes some information about me and showing all my works which I've created for 2 years. Don't brake, visit the website!
 
 ## Description
-That site is created for a one reason to present my works and myself. This website contains 4 pages: home, about, work, contact.
+This is my portfolio website which present you all my projects and skillset as a motion and as a graphic designer to potential clients and employers. 
+
+## Functionality
+This portfolio contains 4-pages.
+
+# Home Page
+ This page presents the name and my work area.
+ 
+# About Page
+This page gives the information about me, who I am and also there is the link to my RESUMe where potential emloyers can find the information about my past work positions, also education and about my skills.
+
+# Work Page (portfolio)
+This page will show you all my works from motion and graphic design (videos and graphic works).
+
+# Contact Page
+There are the contact form where all potential employers can send me an email with the suggestion for a job or ask a question.
 
 ## Installation
 TODO: Describe the installation process
@@ -14,11 +29,9 @@ VUE
 JS
 PHP
 
-## History
-
-
-## Credits
-
+## Functionality
+This is a 4-pages dynamic website that has a responsive design.
+The website has an SQL database and all information in the portfolio section is retrieving from the database into hbs file. The dynamic data (lightbox) is appeared by clicking on the portfolio pieces. There are all kinds of animation (keyframes), traisition applied in portfolio website.
 
 ## License
 Copyright 2020 Viktoriia Tyshchuk
