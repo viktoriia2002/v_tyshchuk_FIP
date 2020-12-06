@@ -20,11 +20,11 @@ This page will show you all my works from motion and graphic design (videos and 
 There are the contact form where all potential employers can send me an email with the suggestion for a job or ask a question.
 
 ## Usage
-HTML
-SASS
-VUE
-JS
-PHP
+- HTML
+- SASS
+- VUE
+- JS
+- PHP
 
 ## Functionality
 This is a 4-pages dynamic website that has a responsive design.
