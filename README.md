@@ -7,20 +7,17 @@ This is my portfolio website which present you all my projects and skillset as a
 ## Functionality
 This portfolio contains 4-pages.
 
-# Home Page
+- Home Page
  This page presents the name and my work area.
  
-# About Page
+- About Page
 This page gives the information about me, who I am and also there is the link to my RESUMe where potential emloyers can find the information about my past work positions, also education and about my skills.
 
-# Work Page (portfolio)
+- Work Page (portfolio)
 This page will show you all my works from motion and graphic design (videos and graphic works).
 
-# Contact Page
+- Contact Page
 There are the contact form where all potential employers can send me an email with the suggestion for a job or ask a question.
-
-## Installation
-TODO: Describe the installation process
 
 ## Usage
 HTML
